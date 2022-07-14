@@ -102,12 +102,16 @@ describe("Crawler", () => {
         }
       })
       .then((href) => {
-        cy.get(".provider-detail")
+        cy.get(".provider-row")
           .then((el) => {
             let data = {};
 
             Array.from(el).forEach((e, idx, arr) => {
-              const link = e.querySelectorAll("li")[1].querySelector("a").href;
+              const locality = e.querySelector(".locality")?.innerText;
+              if (!locality || !locality.includes("Vietnam")) {
+                return;
+              }
+              const link = e.querySelector(".website-profile a").href;
               try {
                 cy.visit(link);
                 cy.wait(2000);
@@ -192,7 +196,7 @@ describe("Crawler", () => {
                             elm
                               .querySelector(".section-accordion")
                               .querySelectorAll(".chart-wrapper")
-                          ).map((e) => {
+                          )?.map((e) => {
                             return {
                               skilldistributionName:
                                 e.querySelector(".graph-title")?.innerText,
@@ -200,8 +204,8 @@ describe("Crawler", () => {
                                 e.querySelectorAll(".chartAreaContainer div")
                               )?.map((div) => {
                                 return {
-                                  field: div?.dataset?.content,
-                                  quantity: div.innerText,
+                                  field: div?.dataset?.content?.slice(3, -4),
+                                  quantity: +div?.innerText.slice(0, -1),
                                 };
                               }),
                             };
