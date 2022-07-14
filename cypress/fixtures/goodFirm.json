@@ -1,0 +1,2215 @@
+[
+  {
+    "teamName": "PowerGate Software",
+    "slogan": "Bring Innovative Ideas To Life!",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/power-gate.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Web Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Implementation Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "15%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "65%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "35%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "15%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "10%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Automotive",
+            "quantity": "5%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "InApps Technology",
+    "slogan": "Realize Your Idea",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/inapps-technology.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "60%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "40%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          },
+          {
+            "field": "Media",
+            "quantity": "20%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "10%"
+          },
+          {
+            "field": "Utilities",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "BEETSOFT",
+    "slogan": "Faster and Better",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/beetsoft-co-ltd.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Game Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "AR & VR Development",
+            "quantity": "5%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "5%"
+          },
+          {
+            "field": "BPO Services",
+            "quantity": "5%"
+          },
+          {
+            "field": "IoT Development",
+            "quantity": "5%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "15%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "15%"
+          },
+          {
+            "field": "Gaming",
+            "quantity": "15%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "SotaTek",
+    "slogan": "Leading SDaaS & Blockchain Development Company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/sotatek.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Blockchain Technology",
+            "quantity": "15%"
+          },
+          {
+            "field": "Implementation Services",
+            "quantity": "15%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Financial & Payments",
+            "quantity": "25%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          },
+          {
+            "field": "E-commerce",
+            "quantity": "15%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "10%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "10%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Education",
+            "quantity": "5%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Saigon Technology Solutions",
+    "slogan": "Award-winning Vietnam Software Outsourcing Company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/2538_5901814051379.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Implementation Services",
+            "quantity": "15%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "15%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "20%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "10%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Relia Software",
+    "slogan": "UX Led Offshore Development Partner",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/6642_5aa7ee4b9be41.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "25%"
+          },
+          {
+            "field": "App Designing (UI/UX)",
+            "quantity": "10%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "10%"
+          },
+          {
+            "field": "Blockchain Technology",
+            "quantity": "5%"
+          },
+          {
+            "field": "Bot Development",
+            "quantity": "5%"
+          },
+          {
+            "field": "E-commerce Development",
+            "quantity": "5%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "40%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Information Technology",
+            "quantity": "30%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "10%"
+          },
+          {
+            "field": "Media",
+            "quantity": "10%"
+          },
+          {
+            "field": "Real Estate",
+            "quantity": "10%"
+          },
+          {
+            "field": "Transportation & Logistics",
+            "quantity": "10%"
+          },
+          {
+            "field": "Utilities",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Adamo Software",
+    "slogan": "Leading software Developer in Vietnam",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/5324_5abef80d6f45c.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "80%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "19%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "1%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Food & Beverages",
+            "quantity": "20%"
+          },
+          {
+            "field": "Hospitality",
+            "quantity": "20%"
+          },
+          {
+            "field": "Social",
+            "quantity": "20%"
+          },
+          {
+            "field": "Travel & Lifestyle",
+            "quantity": "20%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Enlab Software",
+    "slogan": "The lab for your digital transformation",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/enlab-software.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Web Development",
+            "quantity": "40%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "30%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "70%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "30%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Financial & Payments",
+            "quantity": "30%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "30%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "20%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Ekoios Technology",
+    "slogan": "Blockchain・Application Development・Web development",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/ekoios-technology.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "25%"
+          },
+          {
+            "field": "Blockchain Technology",
+            "quantity": "15%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "10%"
+          },
+          {
+            "field": "Bot Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Robotic Process Automation",
+            "quantity": "10%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "40%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Financial & Payments",
+            "quantity": "40%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "27%"
+          },
+          {
+            "field": "Education",
+            "quantity": "15%"
+          },
+          {
+            "field": "Travel & Lifestyle",
+            "quantity": "12%"
+          },
+          {
+            "field": "Real Estate",
+            "quantity": "6%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "AgileTech Vietnam",
+    "slogan": "A Quality Software Company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/agiletech-vietnam.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "60%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "10%"
+          },
+          {
+            "field": "Blockchain Technology",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Startups",
+            "quantity": "40%"
+          },
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Transportation & Logistics",
+            "quantity": "20%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Sioux High Tech Software Ltd.",
+    "slogan": "Website Solution & Mobile App Development",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/sioux-high-tech-software-ltd.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "25%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "25%"
+          },
+          {
+            "field": "App Designing (UI/UX)",
+            "quantity": "15%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "15%"
+          },
+          {
+            "field": "IoT Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "80%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "10%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "30%"
+          },
+          {
+            "field": "Hospitality",
+            "quantity": "30%"
+          },
+          {
+            "field": "Education",
+            "quantity": "20%"
+          },
+          {
+            "field": "Automotive",
+            "quantity": "10%"
+          },
+          {
+            "field": "Government",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "BHSoft",
+    "slogan": "Web & Mobile apps, GIS, 3D-IFC-BIM",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/5470_5bfd5e1f1deb5.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "25%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "15%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "10%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "5%"
+          },
+          {
+            "field": "Other Services",
+            "quantity": "5%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "5%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "80%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "20%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "15%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "5%"
+          },
+          {
+            "field": "Education",
+            "quantity": "5%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "5%"
+          },
+          {
+            "field": "Government",
+            "quantity": "5%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Hospitality",
+            "quantity": "5%"
+          },
+          {
+            "field": "Productivity",
+            "quantity": "5%"
+          },
+          {
+            "field": "Real Estate",
+            "quantity": "5%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "5%"
+          },
+          {
+            "field": "Transportation & Logistics",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "TP&P Technology",
+    "slogan": "Leading Software Development Company in Vietnam",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/8332_5b1c9c833b074.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "IT Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Implementation Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "90%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Information Technology",
+            "quantity": "70%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "20%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "MeU Solutions",
+    "slogan": "a leading outsourcing provider in Vietnam",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/meu-solutions.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Testing Services",
+            "quantity": "40%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "10%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "10%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "10%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Government",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          },
+          {
+            "field": "Hospitality",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "10%"
+          },
+          {
+            "field": "Transportation & Logistics",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Digifutura Technologies",
+    "slogan": "Committed to Think Digital",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/892_58625c5f83ce1.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "App Designing (UI/UX)",
+            "quantity": "15%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "15%"
+          },
+          {
+            "field": "Artificial Intelligence",
+            "quantity": "10%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Progressive Web App",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "25%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "25%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "25%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "25%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "SmartDev",
+    "slogan": "Start Saving Money by Oursourcing To Vietnam",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/smartdev.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "60%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Startups",
+            "quantity": "70%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "30%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Tigren Solutions",
+    "slogan": "10+ Years Of Experience In Ecommerce Development",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/tigren-solutions.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce Development",
+            "quantity": "70%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "70%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "20%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "20%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Food & Beverages",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          },
+          {
+            "field": "Other Industries",
+            "quantity": "10%"
+          },
+          {
+            "field": "Telecommunication",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Wiki Solution",
+    "slogan": "Magento Web Development Company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/8166_5b116e81410eb.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce Development",
+            "quantity": "90%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "fram^",
+    "slogan": "PREMIUM IT-DEVELOPMENT MANAGED SERVICES IN VIETNAM",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/fram.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Big Data & BI",
+            "quantity": "10%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "50%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "20%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce",
+            "quantity": "25%"
+          },
+          {
+            "field": "Banking",
+            "quantity": "10%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          },
+          {
+            "field": "Insurance",
+            "quantity": "10%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Hospitality",
+            "quantity": "5%"
+          },
+          {
+            "field": "Travel & Lifestyle",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "CMSMART ",
+    "slogan": "Website Development Company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/cmsmart.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "App Designing (UI/UX)",
+            "quantity": "5%"
+          },
+          {
+            "field": "Other Services",
+            "quantity": "5%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "5%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "5%"
+          },
+          {
+            "field": "Advertising",
+            "quantity": "1%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "1%"
+          },
+          {
+            "field": "Other",
+            "quantity": "8%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "50%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "20%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "20%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "20%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Kyanon Digital",
+    "slogan": "Digital Transformation & Agile Engineering",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/kyanon-digital.jpg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "E-commerce Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "15%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "15%"
+          },
+          {
+            "field": "Big Data & BI",
+            "quantity": "10%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "40%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "30%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Retail",
+            "quantity": "30%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "20%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "15%"
+          },
+          {
+            "field": "E-commerce",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          },
+          {
+            "field": "Other Industries",
+            "quantity": "10%"
+          },
+          {
+            "field": "Banking",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Newwave Solutions Jsc",
+    "slogan": "Top 10 Software Development Company in Vietnam",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/newwave-solutions-jsc.jpeg",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "40%"
+          },
+          {
+            "field": "Game Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "10%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          },
+          {
+            "field": "Other Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "50%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "30%"
+          },
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "20%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Information Technology",
+            "quantity": "50%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "30%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "20%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "DigiEx Group",
+    "slogan": "Delivery innovative custom software ",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/digiex-group.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "50%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "30%"
+          },
+          {
+            "field": "Cloud Computing Services",
+            "quantity": "20%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "40%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "20%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          },
+          {
+            "field": "Real Estate",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Sosene Company Limited",
+    "slogan": "The only compatible partner - Fast and reliable",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/sosene-company-limited.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "30%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "65%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "35%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Banking",
+            "quantity": "30%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "30%"
+          },
+          {
+            "field": "E-commerce",
+            "quantity": "20%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          },
+          {
+            "field": "Food & Beverages",
+            "quantity": "5%"
+          },
+          {
+            "field": "Insurance",
+            "quantity": "5%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Ant Tech",
+    "slogan": "Digital Product Agency with Enterprise Experience",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/ant-tech.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Mobile App Development",
+            "quantity": "50%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "50%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "100%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "10%"
+          },
+          {
+            "field": "Art, Entertainment & Music",
+            "quantity": "10%"
+          },
+          {
+            "field": "Automotive",
+            "quantity": "10%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Food & Beverages",
+            "quantity": "10%"
+          },
+          {
+            "field": "Gaming",
+            "quantity": "10%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "10%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "10%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "10%"
+          },
+          {
+            "field": "Transportation & Logistics",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "KMS Solutions",
+    "slogan": "Embrace the Digital Enterprise",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/kms-solutions.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "App Designing (UI/UX)",
+            "quantity": "12%"
+          },
+          {
+            "field": "IT Services",
+            "quantity": "12%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "12%"
+          },
+          {
+            "field": "Software Development",
+            "quantity": "12%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "12%"
+          },
+          {
+            "field": "Web Designing (UI/UX)",
+            "quantity": "12%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "12%"
+          },
+          {
+            "field": "Cloud Computing Services",
+            "quantity": "8%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "8%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "70%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "30%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Banking",
+            "quantity": "10%"
+          },
+          {
+            "field": "E-commerce",
+            "quantity": "10%"
+          },
+          {
+            "field": "Insurance",
+            "quantity": "10%"
+          },
+          {
+            "field": "Retail",
+            "quantity": "10%"
+          },
+          {
+            "field": "Agriculture",
+            "quantity": "5%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "5%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "5%"
+          },
+          {
+            "field": "Education",
+            "quantity": "5%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Industrial",
+            "quantity": "5%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "5%"
+          },
+          {
+            "field": "Manufacturing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Real Estate",
+            "quantity": "5%"
+          },
+          {
+            "field": "Telecommunication",
+            "quantity": "5%"
+          },
+          {
+            "field": "Other",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "KMS Technology",
+    "slogan": "Bright Minds. Brilliant Solutions.",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/14375_5bdc7e6eaf16c.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "20%"
+          },
+          {
+            "field": "Testing Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Big Data & BI",
+            "quantity": "10%"
+          },
+          {
+            "field": "Cloud Computing Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "DevOps",
+            "quantity": "10%"
+          },
+          {
+            "field": "Implementation Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Maintenance & Support",
+            "quantity": "10%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "75%"
+          },
+          {
+            "field": "Large Business(> $1B)",
+            "quantity": "15%"
+          },
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "10%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "20%"
+          },
+          {
+            "field": "Business Services",
+            "quantity": "20%"
+          },
+          {
+            "field": "Financial & Payments",
+            "quantity": "20%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "20%"
+          },
+          {
+            "field": "Information Technology",
+            "quantity": "20%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "teamName": "Dicom Interactive",
+    "slogan": "Software development company",
+    "imageUrl": "https://goodfirms-prod.s3.amazonaws.com/services/general/dicom-interactive.png",
+    "skillDistribution": [
+      {
+        "skillDistributionName": "Service Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Software Development",
+            "quantity": "40%"
+          },
+          {
+            "field": "Mobile App Development",
+            "quantity": "35%"
+          },
+          {
+            "field": "Web Development",
+            "quantity": "25%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Client Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Small Business(< $10M)",
+            "quantity": "60%"
+          },
+          {
+            "field": "Medium Business($10M - $1B)",
+            "quantity": "40%"
+          }
+        ]
+      },
+      {
+        "skillDistributionName": "Industries Focus",
+        "skillDistributionValue": [
+          {
+            "field": "Business Services",
+            "quantity": "10%"
+          },
+          {
+            "field": "Education",
+            "quantity": "10%"
+          },
+          {
+            "field": "Startups",
+            "quantity": "10%"
+          },
+          {
+            "field": "Travel & Lifestyle",
+            "quantity": "10%"
+          },
+          {
+            "field": "Advertising & Marketing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Art, Entertainment & Music",
+            "quantity": "5%"
+          },
+          {
+            "field": "Automotive",
+            "quantity": "5%"
+          },
+          {
+            "field": "Consumer Products",
+            "quantity": "5%"
+          },
+          {
+            "field": "Designing",
+            "quantity": "5%"
+          },
+          {
+            "field": "Enterprise",
+            "quantity": "5%"
+          },
+          {
+            "field": "Gaming",
+            "quantity": "5%"
+          },
+          {
+            "field": "Healthcare & Medical",
+            "quantity": "5%"
+          },
+          {
+            "field": "Oil & Energy",
+            "quantity": "5%"
+          },
+          {
+            "field": "Productivity",
+            "quantity": "5%"
+          },
+          {
+            "field": "Other",
+            "quantity": "10%"
+          }
+        ]
+      }
+    ]
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {}
+]
